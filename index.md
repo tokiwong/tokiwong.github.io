@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-### Lead DevOps Engineer for RTS Labs
+### Lead DevOps Engineer for [RTS Labs](https://rtslabs.com)
 #### Richmond, VA - March 2018 through *current*
 - Align DevOps solutions with client business strategy and goals
 - Lead the direction and implementation of secure cloud architecture best practices
@@ -25,7 +25,7 @@ layout: default
 
 * * *
 
-### DevOps Engineer for Accenture
+### DevOps Engineer for [Accenture](https://www.accenture.com/us-en)
 #### Washington, DC - July 2017 through March 2018
 - Align technology solutions with client business strategy and goals
 - Operate project resources and cloud architecture in AWS GovCloud
@@ -38,7 +38,7 @@ layout: default
 
 * * *
 
-### Test Lead for Accenture
+### Test Lead for [Accenture](https://www.accenture.com/us-en)
 #### Washington, DC - September 2017 through October 2017
 - Generate test scripts against client web application, using WebLOAD
 - Coordinate with teams across different disciplines to ensure smooth execution of scripts
@@ -47,7 +47,7 @@ layout: default
 
 * * *
 
-### Technology Operations Intern for Cvent
+### Technology Operations Intern for [Cvent](https://www.cvent.com/)
 #### Mclean, VA - June 2016 through August 2016
 - Deployed and tested environments within AWS to explore points of migration into the cloud (Lift and Shift)
 - Ticket creations, ticket audits, and ticket management using ServiceNow
@@ -59,7 +59,7 @@ layout: default
 
 * * *
 
-### AppleCare Advisor for Apple
+### AppleCare Advisor for [Apple](https://www.apple.com/)
 #### Cupertino, CA (Remote) - September 2015 through May 2016
 - Service and support users using an automated call distribution phone software
 - Interact with customers to provide and process information in response to inquiries and concerns about products and services
@@ -69,7 +69,7 @@ layout: default
 
 * * *
 
-### Operations Intern for Packaging Machinery Manufacturers Institute
+### Operations Intern for [Packaging Machinery Manufacturers Institute](https://pmmi.org/)
 #### Reston, VA - May 2014 through August 2015
 
 - Management of Personify360 database
@@ -81,7 +81,7 @@ layout: default
 
 * * *
 
-### Network Operations Intern for Spectrum (formerly Time Warner Cable)
+### Network Operations Intern for [Spectrum](https://www.spectrum.com/) (formerly Time Warner Cable)
 #### Herndon, VA - May 2013 through August 2013
 
 - Ticket creations, escalations, ticket audits, and ticket management using BMC Remedy
@@ -93,7 +93,7 @@ notification and mailing lists, scheduled reports and written procedures.
 
 * * *
 
-### Information Technology Intern for comScore, Inc.
+### Information Technology Intern for [Comscore](https://www.comscore.com/)
 #### Reston, VA - June 2010 through August 2011
 
 - Setup and configured internal computers for employee usage 
