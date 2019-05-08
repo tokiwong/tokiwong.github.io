@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-
 # Resume
-## Alvin Wong / alvinchenfeiwong@gmail.com
+## Alvin Wong / [alvinchenfeiwong@gmail.com](mailto:alvinchenfeiwong@gmail.com)
 #### _DevOps Engineer with 9+ years of professional experience.  Experience working with both small and large, highly-distributed development environments.  Cloud Infrastructure experience with AWS and GCP, in Linux and Windows environments.  Orchestration experience with Terraform, Cloudformation, and Ansible.  Containerization experience with Kubernetes (EKS/kops) and Docker.  Monitoring experience with Datadog, CloudWatch, Prometheus, and Grafana._
 
 * * *
