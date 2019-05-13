@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 repository: tokiwong/tokiwong.io
-title: tokiwong.io
+title: Alvin Wong
 email: alvinchenfeiwong@gmail.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
