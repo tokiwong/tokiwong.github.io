@@ -17,6 +17,7 @@ layout: default
 - Integrate Datadog as a unified monitoring platform with infrastructure and application code
 - Construct automated build pipelines using Git and Jenkinsfiles for application deployment into Kubernetes clusters
 - Implement Kubernetes clusters within AWS using EKS and Terraform
+- Application deployment into Kubernetes using Helm
 - Design and Implement Role-Based Access Control policies across cloud providers and Kubernetes Clusters
 - Create infrastructure deployment pipelines using Ansible and Terraform
 - Manage SSL certificates, and Private Certificate Authority through Amazon Certificate Manager
