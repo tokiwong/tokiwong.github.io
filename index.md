@@ -11,6 +11,7 @@ layout: default
 #### Richmond, VA - March 2018 through *current*
 - Align DevOps solutions with client business strategy and goals
 - Lead the direction and implementation of secure cloud architecture best practices
+- Support the availability and reliability of production systems across multiple projects
 - Engage in business development and project discovery with Fortune 500 clients
 - Utilize multiple open-source tools as part of the DevOps toolchain to eliminate configuration and process bottlenecks
 - Write Infrastructure-As-Code in AWS Cloudformation and Hashicorp Terraform, per client preference
