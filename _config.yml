@@ -18,7 +18,7 @@ title: Alvin Wong
 email: alvinchenfeiwong@gmail.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-    I've worked a lot of ops jobs, but I'm lazy, so now I dev those ops.
+    I've worked a lot of ops jobs, but now I dev those ops.
     
     Currently doing Go stuff for Kubernetes and Terraform reasons.
 baseurl: "" # the subpath of your site, e.g. /blog
