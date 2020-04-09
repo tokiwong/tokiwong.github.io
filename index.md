@@ -3,7 +3,7 @@ layout: default
 ---
 # Resume
 ## [alvinchenfeiwong@gmail.com](mailto:alvinchenfeiwong@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tokiwong/)
-#### _DevOps Engineer with 9+ years of professional experience across a diverse portfolio of industries and skillsets.  Cloud Infrastructure experience with AWS and GCP, in Linux and Windows environments.  Monitoring experience with Datadog, CloudWatch, Prometheus, and Grafana.  CI/CD experience with Jenkins.  Orchestration experience with Terraform, Cloudformation, and Ansible.  Containerization experience with Kubernetes (EKS/kops) and Docker. Scripting experience with Bash._  
+#### _DevOps Engineer with 9+ years of professional experience across a diverse portfolio of industries and skillsets.  Cloud Infrastructure experience with AWS and GCP, in Linux and Windows environments.  Monitoring experience with Datadog, CloudWatch, Prometheus, and Grafana.  CI/CD experience with Jenkins.  Orchestration experience with Terraform, Cloudformation, and Ansible.  Containerization experience with Kubernetes (EKS/kops) and Docker. Scripting experience with Bash, Python, and Groovy._  
 
 * * *
 
