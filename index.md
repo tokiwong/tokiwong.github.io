@@ -5,6 +5,12 @@ layout: default
 ## [alvinchenfeiwong@gmail.com](mailto:alvinchenfeiwong@gmail.com) / [LinkedIn](https://www.linkedin.com/in/tokiwong/)
 #### _DevOps Engineer with 9+ years of professional experience across a diverse portfolio of industries and skillsets.  Cloud Infrastructure experience with AWS and GCP, in Linux and Windows environments.  Monitoring experience with Datadog, CloudWatch, Prometheus, and Grafana.  CI/CD experience with Jenkins.  Orchestration experience with Terraform, Cloudformation, and Ansible.  Containerization experience with Kubernetes (EKS/kops) and Docker. Scripting experience with Bash, Python, and Go._  
 
+## Projects
+### [helmswitch](https://github.com/tokiwong/helm-switcher)
+- CLI tool written in Go to help facilitate installation and switching between Helm versions, for Kubernetes. 
+
+## Work History
+
 * * *
 
 ### Lead DevOps Engineer for [RTS Labs](https://rtslabs.com)
@@ -68,18 +74,6 @@ layout: default
 - Gather customer information and determine the issue by evaluating and analyzing the symptoms
 - Diagnose and resolve technical hardware and software issues involving Apple Devices
 - Accurately process and record call transactions using a computer and designated tracking software
-
-* * *
-
-### Operations Intern for [Packaging Machinery Manufacturers Institute](https://pmmi.org/)
-#### Reston, VA - May 2014 through August 2015
-
-- Management of Personify360 database
-- Organization and management of Excel spreadsheets
-- Managing data using Trackvia and Hoover's database
-- Accounting Assistance
-- Human Resources
-- Management of employee database using iSolved
 
 * * *
 
