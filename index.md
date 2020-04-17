@@ -10,9 +10,6 @@ layout: default
 - CLI tool written in Go to help facilitate installation and switching between Helm versions, for Kubernetes. 
 
 ## Work History
-
-* * *
-
 ### Lead DevOps Engineer for [RTS Labs](https://rtslabs.com)
 #### Richmond, VA - March 2018 through *current*
 - Align DevOps solutions with client business strategy and goals
