@@ -17,7 +17,7 @@ layout: default
 
 * * *
 ### Lead DevOps Engineer for [RTS Labs](https://rtslabs.com)
-#### Richmond, VA - March 2018 through *current*
+#### Richmond, VA - March 2018 through November 2020
 - Align DevOps solutions with client business strategy and goals
 - Lead the direction and implementation of secure cloud architecture best practices
 - Support the availability and reliability of production systems across multiple projects
