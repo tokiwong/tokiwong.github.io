@@ -18,9 +18,7 @@ title: Alvin Wong
 email: alvinchenfeiwong@gmail.com
 logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-    I've worked a lot of ops jobs, but now I dev those ops.
-    
-    Currently doing Go stuff for Kubernetes and Terraform reasons.
+    Big fan of Kubernetes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tokiwong.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: tokiwong
